@@ -1,0 +1,1 @@
+# vsdminisoc_mpw6
